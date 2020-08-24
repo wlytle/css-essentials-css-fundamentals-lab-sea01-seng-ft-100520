@@ -26,6 +26,7 @@ figcaption {
 #details {
   display: block;
   float: left;
+  color: magenta;
 }
 /*#details > div {*/
 /*  flex-direction: row;*/
