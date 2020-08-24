@@ -5,6 +5,7 @@ body {
 }
 h1 {
   color: magenta;
+  align-items: center;
 }
 header {
   align-items: center
