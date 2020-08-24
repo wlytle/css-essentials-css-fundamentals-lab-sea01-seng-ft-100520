@@ -6,7 +6,13 @@ body {
 header {
   text-align: center
 }
+header > a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background: cyan;
+}
 img {
   display: block;
   margin: auto;
 }
+
