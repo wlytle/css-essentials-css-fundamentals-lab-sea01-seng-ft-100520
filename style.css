@@ -25,4 +25,5 @@ figcaption {
 }
 #details {
   display: block;
+  flex-direction: row;
 }
