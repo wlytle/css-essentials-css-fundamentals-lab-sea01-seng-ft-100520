@@ -6,6 +6,6 @@ body {
 header {
   text-align: center
 }
-figure {
-  p: center;
+img {
+  margin: auto;
 }
