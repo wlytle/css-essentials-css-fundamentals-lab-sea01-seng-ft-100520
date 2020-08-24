@@ -30,5 +30,5 @@ figcaption {
   float: left;
   background: red;
   width: 25%;
-  margin: 0 auto;
+  text-align: center;
 }
