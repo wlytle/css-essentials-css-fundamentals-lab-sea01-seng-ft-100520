@@ -25,9 +25,9 @@ figcaption {
 }
 #details {
   display: block;
-  text-align: center;
 }
 #details > div {
   float: left;
-  justify-content: space-around;
+  background: red;
+  
 }
