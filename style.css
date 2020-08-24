@@ -26,4 +26,6 @@ figcaption {
 #details {
   display: block;
 }
-#details > div
+#details > div {
+  flex-direction: row;
+}
