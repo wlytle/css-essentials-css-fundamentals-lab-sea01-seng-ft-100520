@@ -27,5 +27,5 @@ figcaption {
   display: block;
 }
 #details > div {
-  flex-direction: row;
+  float: left;
 }
