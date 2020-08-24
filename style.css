@@ -25,8 +25,7 @@ figcaption {
 }
 #details {
   display: block;
-  float: left;
 }
-/*#details > div {*/
-/*  flex-direction: row;*/
-/*}*/
+#details > div {
+  flex-direction: row;
+}
