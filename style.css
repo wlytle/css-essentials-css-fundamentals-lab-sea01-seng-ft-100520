@@ -23,4 +23,6 @@ figcaption {
   width: 800px;
   margin: 15px auto;
 }
-
+#details {
+  display: block;
+}
