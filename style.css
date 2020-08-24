@@ -15,5 +15,8 @@ img {
   display: block;
   margin: auto;
 }
-figc
+figcaption {
+  text-align: center
+  font-size: 12;
+}
 
